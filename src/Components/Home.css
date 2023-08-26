@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 3rem;
+    padding: 20px;
+  
+  }
+  
+  .card{
+    background-color: whitesmoke;
+    box-shadow: 0 2px 4px rgba(0 0 0 0.1) ;
+    width: 280px;
+  }
+  
+  .card img{
+    width: 100%;
+    height: 180px;
+  
+  }
+  
+  .heading h1{
+    color: blue;
+  }
+  
+  .heading{
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  .container1{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-top: 3rem;
+    padding: 20px;
+  
+  }
+  
+  .cardSlide img{
+    width: 100%;
+    height: 180px;
+    border-radius: 30rem;
+  
+  }
